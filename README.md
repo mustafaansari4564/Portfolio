@@ -24,34 +24,34 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🔭 I’m currently pursuing a **Bachelor's of Engineering in AI & Data Science** at *Marathwada Mitramandal's Institute of Technology, Pune*.
-- 🌱 I’m constantly learning and exploring **Generative AI** and **Data Science**.
-- 🏆 Qualified for **IIT Madras BSc in Data Science and Applications**.
-- ⚡ **Fun Fact:** I love building data-driven systems and experimenting with modern backend tools!
-- 📫 How to reach me: **[mustafaansari4564@gmail.com](mailto:mustafaansari4564@gmail.com)**
+-  I’m constantly learning and exploring **Generative AI** and **Data Science**.
+-  Qualified for **IIT Madras BSc in Data Science and Applications**.
+-  **Fun Fact:** I love building data-driven systems and experimenting with modern backend tools!
+-  How to reach me: **[mustafaansari4564@gmail.com](mailto:mustafaansari4564@gmail.com)**
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Awesome animated-looking 3D skill icons! -->
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,mysql,postgres,github,mongodb,nodejs,express,react,vercel,supabase,vscode,html,css,js&theme=dark&perline=8" alt="Tech Stack SVG"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,mysql,github,vercel,supabase,vscode,html,css,js&theme=dark&perline=8" alt="Tech Stack SVG"/>
   </a>
 </p>
 
 ---
 
-### 🌟 Featured Project: Civic Issue Reporting System
+### Featured Project: Civic Issue Reporting System
 *An AI-powered web app designed to crowdsource and resolve civic issues (SIH 2025).*
 - **Technologies:** React, Node.js, Express, MongoDB, Socket.io
 - **Highlights:** Multi-modal issue reporting, NLP-based spam detection, and real-time push/SMS notifications. 
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### GitHub Stats & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafaansari4564&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00f3ff&title_color=FF00EA&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
