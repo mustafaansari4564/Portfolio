@@ -19,7 +19,7 @@
 <p align="center">
   <a href="mailto:mustafaansari4564@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mustafa-ansari-bb4058377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mustafaansari4564&style=flat-square&color=00f3ff&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mustafaansari4564&style=flat-square&color=00f3ff&label=Profile+Views" />
 </p>
 
 ---
