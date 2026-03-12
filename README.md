@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f3ff&height=250&section=header&text=Mustafa%20Ansari&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descAlignY=55&descAlign=50" alt="Header Banner">
 </p>
