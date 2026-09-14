@@ -53,7 +53,12 @@
 - **Technologies:** Python, scikit-learn, pandas, NumPy
 - **Highlights:** 98.65% accuracy with a Passive-Aggressive Classifier over TF-IDF vectorized text, trained on 40,000+ articles with publisher bias removed.
 
+### Certifications
+- **Getting Started with Artificial Intelligence** — IBM SkillsBuild (Jul 2025)
+- **Retrieval Augmented Generation (RAG) with LangChain** — IBM SkillsBuild (Jul 2025)
+
 ### More Projects
+- **IBM watsonx Hackathon** — College Admission AI Agent + Foodbot (WhatsApp ordering bot), built on IBM watsonx Assistant/watsonx.ai with the Granite foundation model.
 - **MerchantAgent** — Tool-calling AI shopping agent that compares prices across Amazon, Flipkart, and Google Shopping and checks out via Razorpay.
 - **SMS AI Agent** — Production SMS agent: TextBee → FastAPI → local Ollama model → MCP tools → SMS reply.
 - **Saphra Anaforas** — BM25 + SQLite + OpenRouter multilingual library search bot for Discord, built to run within a 1 GiB RAM limit.
