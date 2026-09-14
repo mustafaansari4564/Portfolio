@@ -54,10 +54,14 @@
 - **Highlights:** 98.65% accuracy with a Passive-Aggressive Classifier over TF-IDF vectorized text, trained on 40,000+ articles with publisher bias removed.
 
 ### More Projects
+- **MerchantAgent** — Tool-calling AI shopping agent that compares prices across Amazon, Flipkart, and Google Shopping and checks out via Razorpay.
+- **SMS AI Agent** — Production SMS agent: TextBee → FastAPI → local Ollama model → MCP tools → SMS reply.
 - **Saphra Anaforas** — BM25 + SQLite + OpenRouter multilingual library search bot for Discord, built to run within a 1 GiB RAM limit.
 - **Lughat Bot** — Role-gated classical Arabic dictionary bot with BM25 search across ~14,600 combined dictionary entries.
+- **Scanpages Bot** — Page lookup and full-text search bot for the turath.io Islamic library.
 - **Arabic / Hindi / Sanskrit Translation Bots** — OCR + AI translation bots with free-tier vision model fallback chains.
 - **Burnbot** — Membership-screening-aware moderation bot with a restart-safe expiry tracker.
+- **Personal Research Bot** — Concierge bot granting each user a private, permission-wired research channel.
 
 ---
 
