@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f3ff&height=250&section=header&text=Mustafa%20Ansari&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Engineering%20Student&descAlignY=55&descAlign=50" alt="MUSTAFA ANSARI">
 </p>
@@ -38,7 +37,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Awesome animated-looking 3D skill icons! -->
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,mysql,github,vercel,supabase,vscode,html,css,js&theme=dark&perline=8" alt="Tech Stack SVG"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,mysql,sqlite,flask,github,vercel,supabase,vscode,html,css,js&theme=dark&perline=8" alt="Tech Stack SVG"/>
   </a>
 </p>
 
@@ -48,6 +47,17 @@
 *An AI-powered web app designed to crowdsource and resolve civic issues (SIH 2025).*
 - **Technologies:** React, Node.js, Express, MongoDB, Socket.io
 - **Highlights:** Multi-modal issue reporting, NLP-based spam detection, and real-time push/SMS notifications. 
+
+### Featured Project: AI Fake News Detector
+*An NLP classifier that flags real vs. fake news articles, deployed as a live Streamlit app.*
+- **Technologies:** Python, scikit-learn, pandas, NumPy
+- **Highlights:** 98.65% accuracy with a Passive-Aggressive Classifier over TF-IDF vectorized text, trained on 40,000+ articles with publisher bias removed.
+
+### More Projects
+- **Saphra Anaforas** — BM25 + SQLite + OpenRouter multilingual library search bot for Discord, built to run within a 1 GiB RAM limit.
+- **Lughat Bot** — Role-gated classical Arabic dictionary bot with BM25 search across ~14,600 combined dictionary entries.
+- **Arabic / Hindi / Sanskrit Translation Bots** — OCR + AI translation bots with free-tier vision model fallback chains.
+- **Burnbot** — Membership-screening-aware moderation bot with a restart-safe expiry tracker.
 
 ---
 
